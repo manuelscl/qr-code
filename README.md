@@ -12,13 +12,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 ### Screenshot
-![](./design/product-preview-card-mobile.png)
-![](./design/product-preview-card-desktop.png)
+![](./img)
+![](./img)
 
 ### Links
 
-- Solution URL: (https://your-solution)
-- Live Site URL: (https://your-live-solution/)
+- Solution URL: (https://github.com/manuelscl/qr-code)
+- Live Site URL: (https://manuelscl.github.io/qr-code)
 
 ## My process
 
@@ -26,9 +26,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - HTML5
 - CSS3
-- Flexbox
-- Mobile-first workflow
-
 
 ## Author
 
