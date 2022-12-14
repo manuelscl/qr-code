@@ -39,7 +39,7 @@
         .description {
             padding: 20px 15px 20px 15px;
         }
-        .description h3 {
+        .description h1 {
             font-size: 22px;
             color: hsl(218, 44%, 22%);
             margin-bottom: 20px;
@@ -56,6 +56,13 @@
             text-align: center;
             font-size: 16px;
         }
+        .attribution a {
+            font-weight: 700;
+            color: #2C7DFA;
+        }
+        .attribution a:active {
+            color: #1f4a8a;
+        }
         @media (max-width: 350px) {
             .attribution {
                 display: none;
@@ -68,7 +75,8 @@
         <section class="qr-code-container">
             <img class="qr-image" src="./images/image-qr-code.png" alt="qr-code image">
             <div class="description">
-                <h3>Improve your front-end skills by building projects</h3>
+                <!-- Page should container a h1 -->
+                <h1>Improve your front-end skills by building projects</h1>
                 <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
             </div>
         </section>

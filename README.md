@@ -12,8 +12,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 ### Screenshot
-![](./img)
-![](./img)
+![](./images/qr-code.png)
 
 ### Links
 
